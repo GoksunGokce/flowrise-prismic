@@ -47,6 +47,7 @@ export default function RootLayout({
         
         {children}
         <Footer/>
+        <div className="fixed bg-gradient-to-tr from-emerald-500 to-cyan-50 z-[-1] inset-0  opacity-30" ></div>
 
 
       </body>
